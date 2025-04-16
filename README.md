@@ -1,6 +1,6 @@
 Exemplo de saída no terminal
 
-´´´
+```
 Cadastre as informacoes para a primeira carta:
 -------------------------------------
 
@@ -60,4 +60,4 @@ Resultado: A carta 2 e a vencedora!
 
 
 Pressione ENTER para finalizar...
-´´´
+```
